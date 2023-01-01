@@ -1,7 +1,6 @@
 --------------Nixie_Bytes Security Team----------------
 
-Nixie_Bytes community formed by Cyfosis Cyber Solutions.
-Nixie_Bytes is an emerging hacking community enclosed for testing,
+Nixie_Bytes is an Emerging Hacking Plaform enclosed for testing,
 proofing security & gaining knowledge on hacking skills for students
 and professionals alike.
 
